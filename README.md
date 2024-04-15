@@ -1,4 +1,5 @@
 Developer : Nova Novriansyah
+
 PDF Question Answering with Sentence Transformers and GPT-4
 
 This Python script uses Sentence Transformers and GPT-4 to answer questions based on the content of a PDF document. The script performs the following steps:
