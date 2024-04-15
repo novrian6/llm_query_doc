@@ -37,17 +37,4 @@ Additional Notes
 The script uses a GPT-4 model from the GPT4All library. You can change the model by modifying the llm variable.
 Ensure you have an active internet connection for the GPT-4 model to work.
 The script provides a progress bar to indicate the progress of each step.
-Example
-
-Here is an example usage of the script:
-
-Run the script:
-bash
-Copy code
-python pdf_question_answering.py
-Enter your question when prompted:
-python
-Copy code
-Enter your question (or type 'exit' to quit):
-What is the capital of France?
-The script will provide the answer based on the content of the PDF.
+ 
